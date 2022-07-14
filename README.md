@@ -1,5 +1,4 @@
-# calendarioJava
-TP viejo realizado durante la cursada de Algoritmos y programacion III
+# Calendario Java
 
 ## Funcion del TP
 El TP va a tener un Calendario que el mismo va a contener agendas, de personas y recursos, los mismos contienen eventos, los cuales son semanales, el calendario se encarga de agregar las agendas, de personas o recursos, de agregar los eventos a dichas agendas, de indicar si existe un recurso o una agenda y de indicar si la persona o recurso esta ocupada en dicha fecha. 
